@@ -1,4 +1,4 @@
-# Druid Weak Auras
-This folder contains all the general Druid Weak Auras from Suboptimal.
+# Warlock Weak Auras
+This folder contains all the general Warlock Weak Auras from Suboptimal.
 
-[Druids on wago.io](https://wago.io/weakauras/classes/druid)
+[Warlocks on wago.io](https://wago.io/weakauras/classes/warlock)

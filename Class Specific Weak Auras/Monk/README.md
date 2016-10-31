@@ -1,4 +1,4 @@
-# Druid Weak Auras
-This folder contains all the general Druid Weak Auras from Suboptimal.
+# Monk Weak Auras
+This folder contains all the general Monk Weak Auras from Suboptimal.
 
-[Druids on wago.io](https://wago.io/weakauras/classes/druid)
+[Monks on wago.io](https://wago.io/weakauras/classes/monk)

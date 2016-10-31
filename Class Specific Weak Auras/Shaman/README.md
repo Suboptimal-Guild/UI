@@ -1,4 +1,4 @@
-# Druid Weak Auras
-This folder contains all the general Druid Weak Auras from Suboptimal.
+# Shaman Weak Auras
+This folder contains all the general Shaman Weak Auras from Suboptimal.
 
-[Druids on wago.io](https://wago.io/weakauras/classes/druid)
+[Shamans on wago.io](https://wago.io/weakauras/classes/shaman)
